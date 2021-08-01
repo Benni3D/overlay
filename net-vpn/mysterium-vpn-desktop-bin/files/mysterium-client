@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sudo /opt/MysteriumVPN/resources/static/bin/myst_supervisor &
+/opt/MysteriumVPN/mysterium-vpn-desktop
