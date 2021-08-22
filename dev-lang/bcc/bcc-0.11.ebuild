@@ -8,7 +8,7 @@ HOMEPAGE="https://github.com/Benni3D/bcc"
 
 IUSE="+fp"
 
-LICENSE="GPL-2"
+LICENSE="GPL-3"
 SLOT="0"
 
 if [ "${PV}" = "9999" ]; then
